@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":302:{a:2:{s:7:"defects";a:3:{s:22:"BeginnerTests::testAdd";i:4;s:29:"BeginnerTests::testCreatePlan";i:4;s:24:"ProTests::testCreatePlan";i:4;}s:5:"times";a:4:{s:22:"BeginnerTests::testAdd";d:0;s:24:"CalculatorTests::testAdd";d:0;s:29:"BeginnerTests::testCreatePlan";d:0;s:24:"ProTests::testCreatePlan";d:0;}}}
